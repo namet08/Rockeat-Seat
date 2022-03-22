@@ -1,0 +1,1 @@
+console.log("Meu treinamento para aperfeiçoar o conhecimento de js")

@@ -11,7 +11,7 @@ var nome = prompt('Iforme seu nome');
 
 console.log(nome);
 
-var idade = prompt('Iforme sua idade'); 
+var idade = prompt('Iforme sua idade');
 
 console.log(idade);
 
@@ -24,7 +24,7 @@ Informe um numero
 var number1 = prompt('Digite um numero')
 var number2 = prompt('Digite o segundo numero')
 
-var result = number1 + number2
+var result = (Number(number1)) - (Number(number2))
 
 
 console.log(result)
